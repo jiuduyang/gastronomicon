@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "gastronomicon:dragon_breath_confit"
+    },
+    "title": {
+      "translate": "advancements.gastronomicon.first_bite.title"
+    },
+    "description": {
+      "translate": "advancements.gastronomicon.first_bite.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "consume_gastronomicon_food": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "tag": "gastronomicon:gastronomicon_foods"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EEE"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "B": {
+      "item": "minecraft:clock"
+    },
+    "C": {
+      "item": "minecraft:sugar"
+    },
+    "D": {
+      "item": "minecraft:wheat"
+    },
+    "E": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "gastronomicon:chronos_cake",
+    "count": 1
+  }
+}

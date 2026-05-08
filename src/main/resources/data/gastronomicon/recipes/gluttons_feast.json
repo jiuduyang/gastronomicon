@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cooked_beef"
+    },
+    "B": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "C": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "D": {
+      "item": "minecraft:golden_apple"
+    },
+    "E": {
+      "item": "minecraft:dragon_breath"
+    },
+    "F": {
+      "item": "minecraft:cake"
+    },
+    "G": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "H": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "I": {
+      "item": "minecraft:cooked_rabbit"
+    }
+  },
+  "result": {
+    "item": "gastronomicon:gluttons_feast",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "itemGroup.gastronomicon.main": "Gastronomicon",
+  
+  "item.gastronomicon.dragon_breath_confit": "Dragon Breath Confit",
+  "item.gastronomicon.void_core": "Void Core",
+  "item.gastronomicon.ancient_heartbroth": "Ancient Heartbroth",
+  "item.gastronomicon.sculk_resonant_fungus": "Sculk Resonant Fungus",
+  "item.gastronomicon.wardens_oculus": "Warden's Oculus",
+  "item.gastronomicon.philosophers_toffee": "Philosopher's Toffee",
+  "item.gastronomicon.chronos_cake": "Chronos Cake",
+  "item.gastronomicon.prismarine_power_cube": "Prismarine Power Cube",
+  "item.gastronomicon.blighted_golden_apple": "Blighted Golden Apple",
+  "item.gastronomicon.gluttons_feast": "Glutton's Feast",
+  
+  "effect.gastronomicon.dragon_fever": "Dragon Fever",
+  "effect.gastronomicon.void_phase": "Void Phase",
+  
+  "effect.gastronomicon.void_core.cooldown": "§cVoid Dash on Cooldown!",
+  "effect.gastronomicon.void_core.fail": "§cCannot Phase Through!",
+  "effect.gastronomicon.gluttons_feast.forbidden": "§cThe Glutton's Desire Is Not Yet Satisfied...",
+  
+  "advancements.gastronomicon.first_bite.title": "The First Bite",
+  "advancements.gastronomicon.first_bite.description": "You opened the first page of Gastronomicon",
+
+  "tooltip.gastronomicon.dragon_breath_confit.desc": "§aDragon breath exploding on the tongue; one burp could ignite a village.",
+  "tooltip.gastronomicon.void_core.desc": "§5Eating it makes you feel like only a thin layer of reality separates you from the Void.",
+  "tooltip.gastronomicon.ancient_heartbroth.desc": "§cA bowl of scalding magma soup; you'll feel like a walking furnace afterwards.",
+  "tooltip.gastronomicon.sculk_resonant_fungus.desc": "§bIt whispers in your stomach, letting you hear secrets from the other side of the wall.",
+  "tooltip.gastronomicon.wardens_oculus.desc": "§8When you gaze into the abyss, the abyss gazes also into your dinner plate.",
+  "tooltip.gastronomicon.philosophers_toffee.desc": "§6Every bite tastes like knowledge, though the side effect is becoming a bit 'cold-blooded'.",
+  "tooltip.gastronomicon.chronos_cake.desc": "§dTime tied itself in a knot here; death is just a small interlude back to the start.",
+  "tooltip.gastronomicon.prismarine_power_cube.desc": "§bThe taste of the sea has never been so intense; land feels a bit 'heavy' now.",
+  "tooltip.gastronomicon.blighted_golden_apple.desc": "§4Golden skin can't hide the scent of decay; a near-death carnival is about to begin.",
+  "tooltip.gastronomicon.gluttons_feast.desc": "§lThe will of Gluttony manifests here; save for this feast, there is no delicacy in the world."
+}

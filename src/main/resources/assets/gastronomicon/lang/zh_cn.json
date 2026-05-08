@@ -1,0 +1,35 @@
+{
+  "itemGroup.gastronomicon.main": "饕餮魔典",
+  
+  "item.gastronomicon.dragon_breath_confit": "龙息蜜饯",
+  "item.gastronomicon.void_core": "虚空凝核",
+  "item.gastronomicon.ancient_heartbroth": "远古熔心汤",
+  "item.gastronomicon.sculk_resonant_fungus": "幽匿共鸣菌",
+  "item.gastronomicon.wardens_oculus": "监守者之瞳",
+  "item.gastronomicon.philosophers_toffee": "贤者糖",
+  "item.gastronomicon.chronos_cake": "时之砂漏糕",
+  "item.gastronomicon.prismarine_power_cube": "海晶能量立方",
+  "item.gastronomicon.blighted_golden_apple": "腐化金苹果",
+  "item.gastronomicon.gluttons_feast": "饕餮盛宴",
+  
+  "effect.gastronomicon.dragon_fever": "龙热症",
+  "effect.gastronomicon.void_phase": "虚空相位",
+  
+  "effect.gastronomicon.void_core.cooldown": "§c虚空冲刺冷却中！",
+  "effect.gastronomicon.void_core.fail": "§c无法相位穿透！",
+  "effect.gastronomicon.gluttons_feast.forbidden": "§c饕餮之欲尚未满足...",
+  
+  "advancements.gastronomicon.first_bite.title": "第一口禁忌",
+  "advancements.gastronomicon.first_bite.description": "你翻开了饕餮魔典的第一页",
+
+  "tooltip.gastronomicon.dragon_breath_confit.desc": "§a龙息在舌尖炸裂，据说吃完打个嗝都能点燃一座村庄。",
+  "tooltip.gastronomicon.void_core.desc": "§5吃下它，你感觉自己和虚空之间只隔了一层薄薄的现实。",
+  "tooltip.gastronomicon.ancient_heartbroth.desc": "§c一碗滚烫的岩浆浓汤，喝完后感觉自己像个行走的火炉。",
+  "tooltip.gastronomicon.sculk_resonant_fungus.desc": "§b它在你的胃里低语，让你能听见墙壁另一侧的秘密。",
+  "tooltip.gastronomicon.wardens_oculus.desc": "§8当你凝视深渊时，深渊也在凝视你的餐盘。",
+  "tooltip.gastronomicon.philosophers_toffee.desc": "§6每一口都是知识的味道，虽然副作用是变得有点‘冷血’。",
+  "tooltip.gastronomicon.chronos_cake.desc": "§d时间在这里打了个结，死亡不过是回到起点的小插曲。",
+  "tooltip.gastronomicon.prismarine_power_cube.desc": "§b海水的味道从未如此浓郁，陆地对你来说变得有些‘沉重’。",
+  "tooltip.gastronomicon.blighted_golden_apple.desc": "§4金色的外皮掩盖不住腐败的气息，一场濒死的狂欢即将开始。",
+  "tooltip.gastronomicon.gluttons_feast.desc": "§l饕餮的意志在此显现，除了这盘盛宴，世间再无美味。"
+}
